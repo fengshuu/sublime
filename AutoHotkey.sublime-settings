@@ -1,0 +1,9 @@
+{
+    "AutoHotKeyExePath": [ "D:\\Program Files\\AutoHotkey\\AutoHotkey.exe",
+                            "D:\\Program Files\\AutoHotkey\\AutoHotkeyA32.exe",
+                            "D:\\Program Files\\AutoHotkey\\AutoHotkeyU32.exe",
+                            "D:\\Program Files\\AutoHotkey\\AutoHotkeyU64.exe"],
+
+    "Ahk2ExePath": [  "D:\\Program Files\\AutoHotkey\\Compiler\\Ahk2Exe.exe"]
+
+}

@@ -1,0 +1,15 @@
+{
+    /*
+        Enable or not mathjax support.
+    */
+    "enable_mathjax": true,
+
+    /*
+        Enable or not highlight.js support for syntax highlighting.
+    */
+    "enable_highlight": true,
+
+    "browser": "C:/Users/shu/AppData/Local/Google/Chrome/Application/chrome.exe",
+
+    "css": ["f:/MyDocument/备份/主题/git-markdown.css"],
+}

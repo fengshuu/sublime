@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AceJump",
+		"AutoHotkey",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"FileDiffs",
+		"GoToLastEdit",
+		"IMESupport",
+		"LogView",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"Package Control",
+		"PlainTasks",
+		"Predawn",
+		"SideBarEnhancements",
+		"SqlBeautifier"
+	]
+}
